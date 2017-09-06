@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JinRiTouTiao.iml" filepath="$PROJECT_DIR$/JinRiTouTiao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pindao/pindao.iml" filepath="$PROJECT_DIR$/pindao/pindao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zidingyi_view/zidingyi_view.iml" filepath="$PROJECT_DIR$/zidingyi_view/zidingyi_view.iml" />
+    </modules>
+  </component>
+</project>
